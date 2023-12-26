@@ -2,6 +2,6 @@ package java.com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, Whanos!!!");
+        System.out.println("Hello, Whanos!!");
     }
 }
